@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+description goes here
 
 ## What it does
 
-FEATURES PLACEHOLDER
+features go here
 
 ## Getting started
 
